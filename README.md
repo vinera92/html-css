@@ -16,5 +16,5 @@ Testes de HTML e CSS
 <a href="https://vinera92.github.io/html-css/desafios/d009/" target="_blank">Acessar desafio 09</a><br>
 <a href="https://vinera92.github.io/html-css/desafios/d010/android.html" target="_blank">Acessar desafio 10</a><br>
 <a href="https://vinera92.github.io/html-css/desafios/d012/index.html" target="_blank">Acessar desafio 11</a><br>
-<a href="https://vinera92.github.io/html-css/desafios/d013/index.html" target="_blank">Acessar desafio 13</a><br>
-<a href="https://vinera92.github.io/html-css/desafios/d014/index.html" target="_blank">Acessar desafio 14</a><br>
+<a href="https://vinera92.github.io/html-css/desafios/d013/index.html" target="_blank">Acessar desafio 12</a><br>
+<a href="https://vinera92.github.io/html-css/desafios/d014/index.html" target="_blank">Acessar desafio 13</a><br>
